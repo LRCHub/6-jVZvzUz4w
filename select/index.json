@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "UNDEAD",
   "base_artist": "YOASOBI",
-  "createdAt": "2026-03-24T18:43:15.772561Z",
+  "createdAt": "2026-03-27T07:22:07.835372Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -139,7 +139,7 @@
       "artist": "YOASOBI",
       "has_synced": false,
       "path": "select/localdb_01_UNDEAD_YOASOBI.txt",
-      "repo_name": "6-jVZvzUz4w"
+      "repo_name": "RsOfhSibWFA"
     },
     {
       "id": "localdb_2",
@@ -148,7 +148,7 @@
       "artist": "YOASOBI",
       "has_synced": false,
       "path": "select/localdb_02_UNDEAD_YOASOBI.txt",
-      "repo_name": "Jj1_mfUzjOs"
+      "repo_name": "6-jVZvzUz4w"
     },
     {
       "id": "localdb_3",
@@ -157,7 +157,7 @@
       "artist": "YOASOBI",
       "has_synced": false,
       "path": "select/localdb_03_UNDEAD_YOASOBI.txt",
-      "repo_name": "8ZN40f8R7eg"
+      "repo_name": "Jj1_mfUzjOs"
     },
     {
       "id": "localdb_4",
@@ -166,6 +166,15 @@
       "artist": "YOASOBI",
       "has_synced": false,
       "path": "select/localdb_04_UNDEAD_YOASOBI.txt",
+      "repo_name": "8ZN40f8R7eg"
+    },
+    {
+      "id": "localdb_5",
+      "source": "localdb",
+      "title": "UNDEAD",
+      "artist": "YOASOBI",
+      "has_synced": false,
+      "path": "select/localdb_05_UNDEAD_YOASOBI.txt",
       "repo_name": "51qnz7pJzRg"
     }
   ]
